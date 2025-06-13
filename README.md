@@ -1,4 +1,4 @@
-# SoundCloud Hacker Downloader
+# SoundCloud Downloader
 
 Uma aplicação gráfica para Windows que permite baixar músicas do SoundCloud com foco em simplicidade, qualidade e eliminação de anúncios.  
 Desenvolvida para pessoas que querem baixar músicas com clareza sobre o que estão obtendo, sem distrações ou riscos.
