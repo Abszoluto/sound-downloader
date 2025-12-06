@@ -3,7 +3,7 @@
 Uma aplicação gráfica para Windows que permite baixar músicas do SoundCloud com foco em simplicidade, qualidade e eliminação de anúncios.  
 Desenvolvida para pessoas que querem baixar músicas com clareza sobre o que estão obtendo, sem distrações ou riscos.
 
----
+
 
 ## Recursos
 
@@ -15,7 +15,7 @@ Desenvolvida para pessoas que querem baixar músicas com clareza sobre o que est
 - Barra de progresso com efeito visual customizado
 - Ícone personalizado incluso
 
----
+
 
 ## Requisitos
 
@@ -23,7 +23,6 @@ Desenvolvida para pessoas que querem baixar músicas com clareza sobre o que est
 - Sistema operacional Windows
 - Acesso à internet para baixar dependências e faixas
 
----
 
 ## Instalação das dependências
 
@@ -33,7 +32,7 @@ Para rodar o aplicativo a partir do código-fonte, execute:
 pip install mutagen requests pillow scdl
 ```
 
----
+
 
 ## Como usar
 
@@ -55,13 +54,13 @@ python sdown.py
 6. Clique em **BAIXAR**.
 7. O app fará a verificação da qualidade e informará se a desejada está disponível. Se não estiver, será exibida a real.
 
----
+
 
 ## Distribuição
 
 Se não quiser instalar dependências, use diretamente o executável `sdown.exe`, disponível na pasta `dist`.
 
----
+
 
 ## Observações
 
